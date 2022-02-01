@@ -1,0 +1,8 @@
+For showing image you have go your dompdf source file like 
+dompdf\src\Image\Cache.php
+In the Cache.php file you will search .... and make chrootValid true.. by default it will be false.
+
+$chrootValid = true;
+save it and try now...
+...................................................................
+Hope it will work
